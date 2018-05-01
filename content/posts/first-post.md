@@ -54,4 +54,4 @@ You can find my proposal [here](https://docs.google.com/document/d/1VXV_SOazs299
 
 I'll be writing more about what my project is and how I am approaching it, soon.
 
-Chao!
+Adios!
